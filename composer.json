@@ -1,11 +1,11 @@
 {
-  "name": "ifaqih/ai-methods",
+  "name": "ifaqih/aimethods",
   "description": "Metapackage of IFaqih/AIMethods",
   "type": "metapackage",
-  "version": "1.0",
+  "version": "1.0.0",
   "require": {
-    "ifaqih/ifnaivebayes": "1.0",
-    "ifaqih/iffuzzy": "1.0"
+    "ifaqih/ifnaivebayes": "1.0.0",
+    "ifaqih/iffuzzy": "1.0.0"
   },
   "license": "MIT",
   "authors": [
